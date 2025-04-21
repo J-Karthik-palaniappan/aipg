@@ -1,6 +1,6 @@
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="apikey")
 
 # Define inputs
 question = "Explain the greenhouse effect."
